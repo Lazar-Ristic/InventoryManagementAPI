@@ -1,0 +1,28 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE folders
+.vscode/
+.vs/
+
+# Logs
+*.log
+
+# Runtime files
+*.db
+*.sqlite
+*.db-journal
+
+# Secrets (ako ikad koristiš)
+secrets.json
+
+# OS metadata
+.DS_Store
+Thumbs.db
